@@ -29,6 +29,11 @@ function App() {
           <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="7" fill="url(#ig)"/><defs><linearGradient id="ig" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse"><stop stopColor="#833ab4"/><stop offset="0.5" stopColor="#fd1d1d"/><stop offset="1" stopColor="#fcb045"/></linearGradient></defs><path d="M12 8.5A3.5 3.5 0 1 0 12 15.5A3.5 3.5 0 1 0 12 8.5Z" stroke="#fff" strokeWidth="1.5"/><circle cx="17.2" cy="6.8" r="0.8" fill="#fff"/><rect x="3.5" y="3.5" width="17" height="17" rx="5.5" stroke="#fff" strokeWidth="1.5"/></svg>
           Instagram
         </a>
+        <a className="link-btn threads" href="https://www.threads.com/@2disaster3d" target="_blank">
+          {/* Icono Threads */}
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="7" fill="#000"/><path d="M12 7c2.5 0 4.5 1.5 4.5 4s-2 4-4.5 4-4.5-1.5-4.5-4c0-2.5 2-4 4.5-4zm0 0v10m0-10c-2.5 0-4.5 1.5-4.5 4s2 4 4.5 4 4.5-1.5 4.5-4c0-2.5-2-4-4.5-4z" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+          Threads
+        </a>
         <a className="link-btn tiktok" href="https://www.tiktok.com/@2disaster3d" target="_blank">
           {/* Icono TikTok */}
           <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="7" fill="#000"/><path d="M16.5 8.5c-1.1 0-2-.9-2-2V5h-2v8.5a1.5 1.5 0 1 1-1.5-1.5" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/><path d="M14.5 5c0 2.2 1.8 4 4 4" stroke="#00F2EA" strokeWidth="1.5" strokeLinecap="round"/><path d="M13.5 13.5a3 3 0 1 1-3-3" stroke="#FF004F" strokeWidth="1.5" strokeLinecap="round"/></svg>
